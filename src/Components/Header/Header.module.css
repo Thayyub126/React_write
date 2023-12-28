@@ -1,0 +1,19 @@
+button {
+  padding: 12px 26px;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 500;
+  transition: 0.3s ease-in;
+  border-radius: 6px;
+  text-transform: capitalize;
+  color: #fff !important;
+  background-color: #191919 !important;
+  border-color: #191919 !important;
+  font-family: "DM Sans", sans-serif;
+}
+button:hover {
+  opacity: 0.95;
+  color: #fff;
+  background-color: #191919;
+  border-color: #191919;
+}
